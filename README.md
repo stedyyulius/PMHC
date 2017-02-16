@@ -4,7 +4,8 @@ saya adalah seorang karyawan yang sebelumnya bekerja di industri film selama 2 t
 <b>About this site </b><br>
 Web ini bertujuan untuk memamerkan hasil - hasil karya coding saya ke publik <hr>
 
-<b>Used Tags & Sintaxes</b>
+<b>Used Tags & Sintaxes</b><br>
+
 HTML
 <ul>
 <li> html </li>
