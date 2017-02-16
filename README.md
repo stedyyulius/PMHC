@@ -5,6 +5,9 @@ saya adalah seorang karyawan yang sebelumnya bekerja di industri film selama 2 t
 <b>About this site </b><br>
 Web ini bertujuan untuk memamerkan hasil - hasil karya coding saya ke publik <hr>
 
+<b> Future plans </b><br>
+Saya berencana membuat website dan aplikasi dimana orang - orang bisa membuat cerita secara bersama - sama di sana, dan jika diberi kesempatan saya juga ingin menjadi game developer. </hr>
+
 <b>Used Tags & Sintaxes</b><br>
 
 HTML
