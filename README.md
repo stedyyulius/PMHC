@@ -1,4 +1,4 @@
-<h1><b> Yulius Stedy Tiolamon </b><hr></h1>
+<h1><b> Yulius Stedy Tiolamon </b><hr></h1><img src ="Desktop\34284_1487194292131_1002139414_31429284_484589_n.jpeg>
 
 <b>About me </b><br>
 saya adalah seorang karyawan yang sebelumnya bekerja di industri film selama 2 tahun lebih sebagai production assistant yang mengurus banyak hal menggunakan software-software komputer seperti adobe premiere, photoshop, dan autocad. <hr>
