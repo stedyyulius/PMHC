@@ -1,9 +1,12 @@
 <h1><b> Yulius Stedy Tiolamon </b><hr></h1>
 <b>About me </b><br>
-saya adalah seorang karyawan yang sebelumnya bekerja di industri film selama 2 tahun lebih sebagai production assistant yang mengurus banyak hal menggunakan software-software komputer seperti adobe premiere, photoshop, dan autocad. <hr>
+saya adalah seorang karyawan yang sebelumnya bekerja di industri film selama 2 tahun lebih sebagai production assistant yang mengurus banyak hal menggunakan software-software komputer seperti adobe premiere, photoshop, dan autocad.<hr>
 
 <b>About this site </b><br>
 Web ini bertujuan untuk memamerkan hasil - hasil karya coding saya ke publik <hr>
+
+<b> Future Plans </b><br>
+Saya brtujuan membuat website dan aplikasi yang dimana orang dpaat membuat cerita secara masal dan jika diberi kesempatan saya ingin menjadi game developer juga <hr>
 
 <b>Used Tags & Sintaxes</b><br>
 
