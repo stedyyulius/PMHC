@@ -1,3 +1,5 @@
+<b> Yulius Stedy Tiolamon </b><hr>
+
 <b>About me </b><br>
 saya adalah seorang karyawan yang sebelumnya bekerja di industri film selama 2 tahun lebih sebagai production assistant yang mengurus banyak hal menggunakan software-software komputer seperti adobe premiere, photoshop, dan autocad. <hr>
 
